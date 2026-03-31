@@ -2,8 +2,11 @@
 Student Details:
 
 Name: Soubhik Pal
+
 Course: B.Tech CSE
+
 Enrollment no.: A91005222144
+
 University: Amity University
 
 Repository Overview:
@@ -37,10 +40,15 @@ B. Draw a Scatter Plot showing outliers, clusters, and correlation
 Technologies Used:
 
 Programming Language: Python
+
 Libraries:
+
 matplotlib
+
 numpy
+
 pandas
+
 pygame (for animation)
 
 Acknowledgment:
