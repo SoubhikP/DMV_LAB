@@ -1,5 +1,5 @@
 # DMV_LAB
-# Student Details:
+# Student Details
 
 Name: Soubhik Pal
 
@@ -9,13 +9,13 @@ Enrollment no.: A91005222144
 
 University: Amity University
 
-# Repository Overview:
+# Repository Overview
 
 This repository contains all the lab assignments completed as part of the Data Management & Visualization coursework. Each assignment demonstrates different concepts of data handling, visualization, and basic animation using Python.
 
 The tasks range from simple static plots to dynamic and animated visualizations, along with data preprocessing techniques like handling missing values and detecting outliers.
 
-# List of Experiments:
+# List of Experiments
 
 Draw a Line Chart
 Draw a Histogram
@@ -37,7 +37,7 @@ Handling Missing Values, Detecting Outliers & Visualization using Pie Chart
 A. Draw a Box Plot using a given dataset
 B. Draw a Scatter Plot showing outliers, clusters, and correlation
 
-# Technologies Used:
+# Technologies Used
 
 Programming Language: Python
 
@@ -51,6 +51,6 @@ pandas
 
 pygame (for animation)
 
-# Acknowledgment:
+# Acknowledgment
 
 This repository is created as part of academic coursework under the guidance of faculty at Amity University.
