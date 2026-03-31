@@ -42,11 +42,8 @@ B. Draw a Scatter Plot showing outliers, clusters, and correlation
 Programming Language: Python
 
 Libraries:
-
 matplotlib
-
 numpy
-
 pandas
 
 pygame (for animation)
